@@ -1,2 +1,3 @@
 # StructLabStructLabIntroduction
 StructuralObjectives
+SetupGuide
