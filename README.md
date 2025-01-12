@@ -3,3 +3,4 @@ StructuralObjectives
 SetupGuide
 StructuralFeatures
 DependenciesList
+CodeExamples
