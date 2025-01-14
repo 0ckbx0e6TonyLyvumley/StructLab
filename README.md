@@ -4,3 +4,4 @@ SetupGuide
 StructuralFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
