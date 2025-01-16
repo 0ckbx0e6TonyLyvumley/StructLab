@@ -5,3 +5,4 @@ StructuralFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
