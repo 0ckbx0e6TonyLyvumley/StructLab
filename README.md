@@ -11,3 +11,4 @@ LicenseDetails
 StructuralFAQ
 Changelog
 TestingInstructions
+StructuralPerformance
