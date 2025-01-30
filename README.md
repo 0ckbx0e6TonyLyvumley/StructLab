@@ -12,3 +12,4 @@ StructuralFAQ
 Changelog
 TestingInstructions
 StructuralPerformance
+CommunityResources
